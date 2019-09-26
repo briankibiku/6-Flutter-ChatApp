@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "445463012068",
+    "firebase_url": "https://flash-chat-f516c.firebaseio.com",
+    "project_id": "flash-chat-f516c",
+    "storage_bucket": "flash-chat-f516c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445463012068:android:500ad83c2c2b8e2c",
+        "android_client_info": {
+          "package_name": "kibiku.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "445463012068-9hlcve140k4spk73i68g9c5i5nunv9d1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaCcAvQSHlGuRziymZPlQEKhml-pU6kbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "445463012068-9hlcve140k4spk73i68g9c5i5nunv9d1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
